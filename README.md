@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Likhith kumar Mattapalli</h1>
 <h3 align="center">A passionate full stack developer</h3>
-
+<div style="width:100%;display:flex;justify-content:center;"><img alt="coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" /></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhith329&label=Profile%20views&color=0e75b6&style=flat" alt="likhith329" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhith329" alt="likhith329" /></a> </p>
